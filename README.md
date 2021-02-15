@@ -8,8 +8,7 @@
 1. clone the project
 2. Open in local IDE
 3. run npm install or npm i
-4. Make .env file and add SKIP_PREFLIGHT_CHECK = true  in it
-5. Add firebase.js file in src folder and add firebase configuration script to it
+4. Add firebase.js file in src folder and add firebase configuration script to it
 5. Type npm start
 6. Your project is running
 
